@@ -15,8 +15,12 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-# screenshots
+# screenshots<br>
+<br>
+screenshots
+<p float="left">
 <img alt="screenshot" src="./screenshots/Screenshot_2022-08-18-12-25-31-837_com.example.test_app.jpg" width="300px" height="600px">
 <img alt="screenshot" src="./screenshots/Screenshot_2022-08-18-12-25-37-624_com.example.test_app.jpg" width="300px" height="600px">
 <img alt="screenshot" src="./screenshots/Screenshot_2022-08-18-12-25-41-957_com.example.test_app.jpg" width="300px" height="600px">
 <img alt="screenshot" src="./screenshots/Screenshot_2022-08-18-12-25-45-375_com.example.test_app.jpg" width="300px" height="600px">
+</p>
